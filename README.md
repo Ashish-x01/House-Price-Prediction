@@ -8,11 +8,11 @@ Dataset Overview
 
 The dataset contains information on various features affecting house prices. Key columns include:
 
-- `area`: Area of the house in square feet
-- `bedrooms`, `bathrooms`: Number of rooms
-- `stories`: Number of floors
-- `parking`: Availability of parking
-- `price`: Target variable (house price in INR)
+- area: Area of the house in square feet
+- bedrooms, bathrooms: Number of rooms
+- stories: Number of floors
+- parking: Availability of parking
+- price: Target variable (house price in INR)
 
 Technologies Used:
 
