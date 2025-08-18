@@ -5,7 +5,7 @@ Regularization helps to reduce overfitting by penalizing large coefficient value
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 The dataset contains information on various features affecting house prices. Key columns include:
 
 - **lotsize**: Area of the plot in square feet  
@@ -17,7 +17,7 @@ The dataset contains information on various features affecting house prices. Key
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python 3  
 - NumPy, Pandas, Matplotlib, Seaborn  
 - Scikit-learn (for Linear, Ridge, and Lasso Regression)  
@@ -25,7 +25,7 @@ The dataset contains information on various features affecting house prices. Key
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Preprocessing
 - Dropped unnecessary index column  
@@ -46,7 +46,7 @@ The dataset contains information on various features affecting house prices. Key
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 - Ridge and Lasso regression improved generalization compared to plain Linear Regression.  
 - Ridge performed better in handling multicollinearity, while Lasso helped in feature selection by shrinking less important coefficients to zero.  
 - Regularization proved effective in **reducing overfitting** and improving model reliability.  
